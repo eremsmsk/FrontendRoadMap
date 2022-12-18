@@ -11,12 +11,12 @@
 
 <p>Bir HTML öğesi, bir başlangıç ​​etiketi, bir miktar içerik ve bir bitiş etiketi ile tanımlanır:</p>
 
-<tagname> İçerik... </tagname>
+  <tagname> İçerik... </tagname>
 
 <p>HTML öğesi, başlangıç ​​etiketinden bitiş etiketine kadar her şeydir:</p>
 
-<h1>Başlık</h1>
-<p>Paragraf.</p>
+  <h1>Başlık</h1>
+  <p>Paragraf.</p>
 
 
 
