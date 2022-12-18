@@ -1,4 +1,4 @@
-# 30 Frontend Developer Road Map
+# Frontend Developer Road Map
 
 <li>Frontend üzerinde çalışırken kullandığım kaynakları, yaptığım araştırmaları, hazırladığım makaleleri ve yaptığım uygulamaları burada bulabilirsiniz.</li>
 
